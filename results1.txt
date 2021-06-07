@@ -1,0 +1,54 @@
+----------------------------------------------------------------------------------------------------
+charding@iastate.edu Seems Legit
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+chris.edu Seems To Have Problems... See The Following Error Object:
+Parse Code: 2, Parse Message: There Should Be Exactly One `@` In The Email Address.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+chris@edu Seems To Have Problems... See The Following Error Object:
+Parse Code: 3, Parse Message: There Should Be Exactly One `.` In The Email Address.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+@bla.edu Seems To Have Problems... See The Following Error Object:
+Parse Code: 1, Parse Message: The Email Address Must Consist Of Alphanumeric Characters Only. Check Your Address.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+throatwobblermangrove@mpfc.org Seems To Have Problems... See The Following Error Object:
+Parse Code: 4, Parse Message: The User Name Is Too Short Or Long! The User Name Must Be 3-16 Characters In Length..
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+chris@X.com Seems To Have Problems... See The Following Error Object:
+Parse Code: 5, Parse Message: The Domain Name Is Too Short Or Long! The Domain Name Must Be 2-8 Characters In Length.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+chris.harding@iastate.edu Seems To Have Problems... See The Following Error Object:
+Parse Code: 3, Parse Message: There Should Be Exactly One `.` In The Email Address.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+chris@pymart.biz Seems To Have Problems... See The Following Error Object:
+Parse Code: 6, Parse Message: The Domain Name Must Be `com`, `edu`, `org`, or `gov`
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+chris@letsgo!.org Seems To Have Problems... See The Following Error Object:
+Parse Code: 1, Parse Message: The Email Address Must Consist Of Alphanumeric Characters Only. Check Your Address.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+chris@megasavings.org Seems To Have Problems... See The Following Error Object:
+Parse Code: 5, Parse Message: The Domain Name Is Too Short Or Long! The Domain Name Must Be 2-8 Characters In Length.
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+tc@tank.com Seems To Have Problems... See The Following Error Object:
+Parse Code: 4, Parse Message: The User Name Is Too Short Or Long! The User Name Must Be 3-16 Characters In Length..
+----------------------------------------------------------------------------------------------------
+
