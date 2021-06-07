@@ -1,0 +1,18 @@
+Please Enter Your Email Address: verylongemailaddress@gmail.com
+
+----------------------------------------------------------------------------------------------------
+verylongemailaddress@gmail.com Is Invalid! Here's The Error Object:
+Parse Code: 4, Parse Message: The User Name Is Too Short Or Long! The User Name Must Be 3-16 Characters In Length..
+Try Again, 2 Attempts Left
+----------------------------------------------------------------------------------------------------
+
+Please Enter Your Email Address: verylong!@gmail.com
+
+----------------------------------------------------------------------------------------------------
+verylong!@gmail.com Is Invalid! Here's The Error Object:
+Parse Code: 1, Parse Message: The Email Address Must Consist Of Alphanumeric Characters Only. Check Your Address.
+Try Again, 1 Attempt Left
+----------------------------------------------------------------------------------------------------
+
+Please Enter Your Email Address: verylong@gmail.com
+verylong@gmail.com Is Valid!
